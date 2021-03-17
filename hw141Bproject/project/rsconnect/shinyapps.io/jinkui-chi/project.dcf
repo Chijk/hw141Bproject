@@ -1,0 +1,12 @@
+name: project
+title: project
+username:
+account: jinkui-chi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3806128
+bundleId: 4357249
+url: https://jinkui-chi.shinyapps.io/project/
+when: 1615965859.72154
+asMultiple: FALSE
+asStatic: FALSE
